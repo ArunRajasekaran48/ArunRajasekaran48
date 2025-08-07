@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun R</h1>
-<h3 align="center">Full Stack Dev | MERN & Java Spring Boot | <a href="https://www.youtube.com/@ProgramProfessor" target="_blank">Educator @Program Proffessor</a></h3>
+<h3 align="center">Full Stack Dev | MERN & Java Spring Boot | Educator<a href="https://www.youtube.com/@ProgramProfessor" target="_blank">@Program Proffessor</a></h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.demolab.com?user=arunrajasekaran48&theme=onedark" alt="GitHub Streak" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48&theme=onedark" alt="arunrajasekaran48" />
     </td>
   </tr>
 </table>
