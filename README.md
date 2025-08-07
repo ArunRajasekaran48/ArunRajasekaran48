@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Arun R
 
-### Full Stack Dev | MERN & Java Spring Boot | Educator <a href="https://www.youtube.com/@ProgramProfessor" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a> @Program Professor
+### Full Stack Developer | MERN & Java Spring Boot | Educator <a href="https://www.youtube.com/@ProgramProfessor" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a> @Program Professor
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
