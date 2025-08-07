@@ -1,5 +1,5 @@
 <div align="center">
-# Hi 👋, I'm Arun R
+ <h1>Hi 👋, I'm Arun R</h1>
   
 ### Full Stack Developer | MERN & Java Spring Boot | Educator <a href="https://www.youtube.com/@ProgramProfessor" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a> @Program Professor
 </div>
