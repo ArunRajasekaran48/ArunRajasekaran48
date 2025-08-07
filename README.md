@@ -96,5 +96,7 @@
   </tr>
 </table>
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
 </p>
