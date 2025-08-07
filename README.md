@@ -3,18 +3,14 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arunrajasekaran48" alt="arunrajasekaran48" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arunrajasekaran48&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="arunrajasekaran48" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Microservices Design Using Spring Cloud**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://arun-s-portfolio-eight.vercel.app/)
-
-- 💬 Ask me about **Java, Spring Boot, Node**
-
-- 📫 Reach me at **arunrajasekaran1209@gmail.com**
-
+- 🌱 I’m currently learning **Microservices Design Using Spring Cloud**  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://arun-s-portfolio-eight.vercel.app/)  
+- 💬 Ask me about **Java, Spring Boot, Node**  
+- 📫 Reach me at **arunrajasekaran1209@gmail.com**  
 - 📄 Know about my experiences [📄 Check out my Resume](https://docs.google.com/document/d/1TZdzuoJwAkErqRY7Pn3FtwBJQzxgSIwa/edit?usp=drive_link&ouid=101497900567952203901&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
@@ -82,20 +78,25 @@
   </a>
 </p>
 
-<h3>📊</h3>
+<h3>📊 GitHub Insights</h3>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arunrajasekaran48&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=arunrajasekaran48&show_icons=true&locale=en&theme=onedark" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunrajasekaran48&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunrajasekaran48&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48&" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.demolab.com?user=arunrajasekaran48&theme=onedark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
+</p>
