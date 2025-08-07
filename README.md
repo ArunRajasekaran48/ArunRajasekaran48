@@ -82,20 +82,5 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=arunrajasekaran48&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/arunrajasekaran48?label=Follow&style=social)](https://github.com/arunrajasekaran48)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
 ```
 
