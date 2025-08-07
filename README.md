@@ -17,16 +17,12 @@
 
 - 📄 Know about my experiences [📄 Check out my Resume](https://docs.google.com/document/d/1TZdzuoJwAkErqRY7Pn3FtwBJQzxgSIwa/edit?usp=drive_link&ouid=101497900567952203901&rtpof=true&sd=true)
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/arun-rajasekaran-617538291/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="30" height="30"/>
   </a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -86,18 +82,20 @@
   </a>
 </p>
 
----
-
 <h3>📊 GitHub Stats</h3>
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=arunrajasekaran48&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunrajasekaran48&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=arunrajasekaran48&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunrajasekaran48&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.demolab.com?user=arunrajasekaran48" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
