@@ -1,22 +1,14 @@
 <div align="center">
-
 # Hi 👋, I'm Arun R
-
+  
 ### Full Stack Developer | MERN & Java Spring Boot | Educator <a href="https://www.youtube.com/@ProgramProfessor" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="20"/></a> @Program Professor
-
 </div>
 
 ---
 
 <div align="center">
-
-## 🏆 GitHub Achievements
-
 <img src="https://github-profile-trophy.vercel.app/?username=arunrajasekaran48&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&title=committer,repo,followers,experience" alt="GitHub Trophies" />
-
 </div>
-
----
 
 
 
@@ -28,7 +20,6 @@
 - 📫 How to reach me: **arunrajasekaran1209@gmail.com**
 - 📄 Know about my experiences: **[📄 Check out my Resume](https://docs.google.com/document/d/1TZdzuoJwAkErqRY7Pn3FtwBJQzxgSIwa/edit?usp=drive_link&ouid=101497900567952203901&rtpof=true&sd=true)**
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -51,7 +42,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Statistics
 
@@ -68,7 +58,6 @@
 
 </div>
 
----
 
 ## 🤝 Connect with Me
 
@@ -81,6 +70,4 @@
 
 </div>
 
----
-```
 
