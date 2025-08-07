@@ -12,7 +12,7 @@
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=arunrajasekaran48&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=arunrajasekaran48&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&title=committer,repo,followers,experience" alt="GitHub Trophies" />
 
 </div>
 
