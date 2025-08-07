@@ -97,6 +97,5 @@
 </table>
 <p align="center">
 </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=github-dark&area=true&hide_border=true" alt="Contribution Calendar" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
 </p>
