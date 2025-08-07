@@ -91,11 +91,14 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48&" alt="arunrajasekaran48" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48&theme=onedark" alt="arunrajasekaran48" />
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=onedark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
