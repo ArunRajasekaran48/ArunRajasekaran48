@@ -91,7 +91,8 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48&show_icons=true&locale=en&theme=onedark" alt="arunrajasekaran48" />
+      <img align="center" src="https://github-readme-streak-stats.demolab.com?user=arunrajasekaran48&theme=onedark" alt="arunrajasekaran48" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48&" alt="arunrajasekaran48" />
     </td>
   </tr>
 </table>
