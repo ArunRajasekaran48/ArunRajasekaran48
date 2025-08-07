@@ -82,7 +82,7 @@
   </a>
 </p>
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊</h3>
 
 <table>
   <tr>
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.demolab.com?user=arunrajasekaran48" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunrajasekaran48&" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
