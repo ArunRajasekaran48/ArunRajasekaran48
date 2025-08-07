@@ -91,9 +91,6 @@
     </td>
   </tr>
   <tr>
-      <p align="center">
-          <img src="https://streak-stats.demolab.com/?user=arunrajasekaran48&theme=onedark" alt="arunrajasekaran48" />
-      </p>
   </tr>
 </table>
 <p align="center">
