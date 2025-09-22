@@ -97,3 +97,7 @@
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunrajasekaran48&theme=github-compact&area=true" alt="GitHub Contribution Graph" />
 </p>
+<h3>📊 Leetcode Insights</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/arunrajasekaran1209?theme=dark&font=Montserrat&ext=contest" alt="leetcode stats" />
+</p>
