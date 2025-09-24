@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-one-beryl-squ6qv8ixt.vercel.app/)  
 - 💬 Ask me about **Java, Spring Boot, Node**  
 - 📫 Reach me at **arunrajasekaran1209@gmail.com**  
-- 📄 Know about my experiences [Check out my Resume](https://drive.google.com/uc?export=download&id=1EhHpmkpIvTgxv4u6ZAPswjbdggI_jV_z)
+- 📄 Know about my experiences [Check out my Resume](https://drive.google.com/drive/folders/1R3QvU75V1GJOcYnhiFm9lnCWKmAN1zZm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
