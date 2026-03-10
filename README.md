@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun R</h1>
 <h3 align="center">Full Stack Dev | MERN & Java Spring Boot | Educator<a href="https://www.youtube.com/@ProgramProfessor" target="_blank">@Program Proffessor</a></h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Top%20Committer-gold?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Achievement-Open%20Source%20Contributor-silver?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Achievement-Star%20Collector-bronze?style=for-the-badge&logo=github">
-</p>
+
 - 🌱 I’m currently learning **Microservices Design Using Spring Cloud**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-one-beryl-squ6qv8ixt.vercel.app/)  
 - 💬 Ask me about **Java, Spring Boot, Node**  
