@@ -2,9 +2,8 @@
 <h3 align="center">Full Stack Dev | MERN & Java Spring Boot | Educator<a href="https://www.youtube.com/@ProgramProfessor" target="_blank">@Program Proffessor</a></h3>
 
 <p align="center">
-  <a href="https://github.com/arunrajasekaran48">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunrajasekaran48&theme=gruvbox" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunrajasekaran48&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arunrajasekaran48&theme=gruvbox" />
 </p>
 
 - 🌱 I’m currently learning **Microservices Design Using Spring Cloud**  
