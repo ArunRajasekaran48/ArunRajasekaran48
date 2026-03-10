@@ -2,8 +2,7 @@
 <h3 align="center">Full Stack Dev | MERN & Java Spring Boot | Educator<a href="https://www.youtube.com/@ProgramProfessor" target="_blank">@Program Proffessor</a></h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunrajasekaran48&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arunrajasekaran48&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arunrajasekaran48&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 - 🌱 I’m currently learning **Microservices Design Using Spring Cloud**  
