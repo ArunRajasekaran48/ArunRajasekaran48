@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Dev | MERN & Java Spring Boot | Educator<a href="https://www.youtube.com/@ProgramProfessor" target="_blank">@Program Proffessor</a></h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arunrajasekaran48&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="arunrajasekaran48" />
+  <a href="https://github.com/arunrajasekaran48">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunrajasekaran48&theme=gruvbox" />
   </a>
 </p>
 
